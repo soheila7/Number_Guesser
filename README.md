@@ -24,7 +24,7 @@ A simple Python game where the player guesses a random number between 1 and 100.
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/number-guesser.git
+   git clone https://github.com/soheila7/Number_Guesser.git
 
 2. Navigate into the project directory:
    ```bash
